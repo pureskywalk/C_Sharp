@@ -1,0 +1,14 @@
+D:\Conntek\C#\test\面向对象\线程\bin\Debug\线程.exe
+D:\Conntek\C#\test\面向对象\线程\bin\Debug\线程.pdb
+D:\Conntek\C#\test\面向对象\线程\obj\x86\Debug\线程.exe
+D:\Conntek\C#\test\面向对象\线程\obj\x86\Debug\线程.pdb
+D:\Conntek\Conntek\C#\test\面向对象\线程\obj\x86\Debug\线程.exe
+D:\Conntek\Conntek\C#\test\面向对象\线程\obj\x86\Debug\线程.pdb
+D:\Conntek\Conntek\C#\test\面向对象\线程\bin\Debug\线程.exe
+D:\Conntek\Conntek\C#\test\面向对象\线程\bin\Debug\线程.pdb
+D:\Conntek\学习\C#\test\面向对象\线程\bin\Debug\线程.exe
+D:\Conntek\学习\C#\test\面向对象\线程\bin\Debug\线程.pdb
+D:\Conntek\学习\C#\test\面向对象\线程\obj\x86\Debug\线程.exe
+D:\Conntek\学习\C#\test\面向对象\线程\obj\x86\Debug\线程.pdb
+D:\Conntek\学习\C#\test\面向对象\线程\obj\x86\Debug\线程.csproj.AssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\线程\obj\x86\Debug\线程.csproj.CoreCompileInputs.cache

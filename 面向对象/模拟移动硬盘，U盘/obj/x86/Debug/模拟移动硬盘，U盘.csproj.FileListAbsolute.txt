@@ -1,0 +1,14 @@
+D:\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\bin\Debug\模拟移动硬盘，U盘.exe
+D:\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\bin\Debug\模拟移动硬盘，U盘.pdb
+D:\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.exe
+D:\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.pdb
+D:\Conntek\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\bin\Debug\模拟移动硬盘，U盘.exe
+D:\Conntek\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\bin\Debug\模拟移动硬盘，U盘.pdb
+D:\Conntek\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.exe
+D:\Conntek\Conntek\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.pdb
+D:\Conntek\学习\C#\test\面向对象\模拟移动硬盘，U盘\bin\Debug\模拟移动硬盘，U盘.exe
+D:\Conntek\学习\C#\test\面向对象\模拟移动硬盘，U盘\bin\Debug\模拟移动硬盘，U盘.pdb
+D:\Conntek\学习\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.exe
+D:\Conntek\学习\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.pdb
+D:\Conntek\学习\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.csproj.AssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\模拟移动硬盘，U盘\obj\x86\Debug\模拟移动硬盘，U盘.csproj.CoreCompileInputs.cache

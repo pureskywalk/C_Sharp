@@ -1,0 +1,4 @@
+D:\Conntek\C#\test\面向对象\多播集合\bin\Debug\多播集合.exe
+D:\Conntek\C#\test\面向对象\多播集合\bin\Debug\多播集合.pdb
+D:\Conntek\C#\test\面向对象\多播集合\obj\x86\Debug\多播集合.exe
+D:\Conntek\C#\test\面向对象\多播集合\obj\x86\Debug\多播集合.pdb

@@ -1,0 +1,4 @@
+D:\Conntek\学习\C#\test\面向对象\正则表达式Regex\bin\Debug\正则表达式Regex.exe
+D:\Conntek\学习\C#\test\面向对象\正则表达式Regex\bin\Debug\正则表达式Regex.pdb
+D:\Conntek\学习\C#\test\面向对象\正则表达式Regex\obj\x86\Debug\正则表达式Regex.exe
+D:\Conntek\学习\C#\test\面向对象\正则表达式Regex\obj\x86\Debug\正则表达式Regex.pdb

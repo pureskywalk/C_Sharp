@@ -1,0 +1,16 @@
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\bin\Debug\net5.0\abstract_Sample.exe
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\bin\Debug\net5.0\abstract_Sample.deps.json
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\bin\Debug\net5.0\abstract_Sample.runtimeconfig.json
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\bin\Debug\net5.0\abstract_Sample.runtimeconfig.dev.json
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\bin\Debug\net5.0\abstract_Sample.dll
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\bin\Debug\net5.0\abstract_Sample.pdb
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.csproj.AssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.AssemblyInfoInputs.cache
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.AssemblyInfo.cs
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.csproj.CoreCompileInputs.cache
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.dll
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\refint\abstract_Sample.dll
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.pdb
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\abstract_Sample.genruntimeconfig.cache
+D:\Conntek\学习\C#\test\面向对象\abstract_Sample\obj\Debug\net5.0\ref\abstract_Sample.dll

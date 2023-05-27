@@ -1,0 +1,14 @@
+D:\Conntek\C#\test\面向对象\里氏转换\bin\Debug\里氏转换.exe
+D:\Conntek\C#\test\面向对象\里氏转换\bin\Debug\里氏转换.pdb
+D:\Conntek\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.exe
+D:\Conntek\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.pdb
+D:\Conntek\Conntek\C#\test\面向对象\里氏转换\bin\Debug\里氏转换.exe
+D:\Conntek\Conntek\C#\test\面向对象\里氏转换\bin\Debug\里氏转换.pdb
+D:\Conntek\Conntek\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.exe
+D:\Conntek\Conntek\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.pdb
+D:\Conntek\学习\C#\test\面向对象\里氏转换\bin\Debug\里氏转换.exe
+D:\Conntek\学习\C#\test\面向对象\里氏转换\bin\Debug\里氏转换.pdb
+D:\Conntek\学习\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.exe
+D:\Conntek\学习\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.pdb
+D:\Conntek\学习\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.csproj.AssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\里氏转换\obj\x86\Debug\里氏转换.csproj.CoreCompileInputs.cache

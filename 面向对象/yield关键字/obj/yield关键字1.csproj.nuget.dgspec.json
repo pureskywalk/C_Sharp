@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Conntek\\学习\\C#\\test\\面向对象\\yield关键字\\yield关键字1.csproj": {}
+  },
+  "projects": {
+    "D:\\Conntek\\学习\\C#\\test\\面向对象\\yield关键字\\yield关键字1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Conntek\\学习\\C#\\test\\面向对象\\yield关键字\\yield关键字1.csproj",
+        "projectName": "yield关键字1",
+        "projectPath": "D:\\Conntek\\学习\\C#\\test\\面向对象\\yield关键字\\yield关键字1.csproj",
+        "packagesPath": "C:\\Users\\17667\\.nuget\\packages\\",
+        "outputPath": "D:\\Conntek\\学习\\C#\\test\\面向对象\\yield关键字\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\SoftWare\\visual statio2022\\shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\17667\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\CodeArtEng.Control": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\HZH_Controls": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\HandyControls": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\NPOI": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\RRQMSkin": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\Surface Analyzer": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\anycad": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\hslcontrol": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\libusbdotnet": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\livecharts": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\microsoft": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\openTK": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\sharpGL": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\sunnyUI": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\system": {},
+          "D:\\Conntek\\学习\\C#\\nuget\\unity3D": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Conntek\\学习\\C#\\test\\面向对象\\_Dictionary\\_Dictionary.csproj": {
+                "projectPath": "D:\\Conntek\\学习\\C#\\test\\面向对象\\_Dictionary\\_Dictionary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Conntek\\学习\\C#\\test\\面向对象\\_Dictionary\\_Dictionary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Conntek\\学习\\C#\\test\\面向对象\\_Dictionary\\_Dictionary.csproj",
+        "projectName": "_Dictionary",
+        "projectPath": "D:\\Conntek\\学习\\C#\\test\\面向对象\\_Dictionary\\_Dictionary.csproj",
+        "frameworks": {
+          "net40-client": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40-client": {}
+      }
+    }
+  }
+}

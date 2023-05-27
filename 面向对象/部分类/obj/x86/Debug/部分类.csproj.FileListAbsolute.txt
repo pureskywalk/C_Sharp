@@ -1,0 +1,12 @@
+D:\Conntek\C#\test\面向对象\部分类\bin\Debug\部分类.exe
+D:\Conntek\C#\test\面向对象\部分类\bin\Debug\部分类.pdb
+D:\Conntek\C#\test\面向对象\部分类\obj\x86\Debug\部分类.exe
+D:\Conntek\C#\test\面向对象\部分类\obj\x86\Debug\部分类.pdb
+D:\Conntek\Conntek\C#\test\面向对象\部分类\bin\Debug\部分类.exe
+D:\Conntek\Conntek\C#\test\面向对象\部分类\bin\Debug\部分类.pdb
+D:\Conntek\Conntek\C#\test\面向对象\部分类\obj\x86\Debug\部分类.exe
+D:\Conntek\Conntek\C#\test\面向对象\部分类\obj\x86\Debug\部分类.pdb
+D:\Conntek\学习\C#\test\面向对象\部分类\obj\x86\Debug\部分类.exe
+D:\Conntek\学习\C#\test\面向对象\部分类\obj\x86\Debug\部分类.pdb
+D:\Conntek\学习\C#\test\面向对象\部分类\bin\Debug\部分类.exe
+D:\Conntek\学习\C#\test\面向对象\部分类\bin\Debug\部分类.pdb

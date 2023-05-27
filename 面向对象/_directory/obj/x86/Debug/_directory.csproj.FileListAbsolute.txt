@@ -1,0 +1,12 @@
+D:\Conntek\C#\test\面向对象\_directory\bin\Debug\_directory.exe
+D:\Conntek\C#\test\面向对象\_directory\bin\Debug\_directory.pdb
+D:\Conntek\C#\test\面向对象\_directory\obj\x86\Debug\_directory.exe
+D:\Conntek\C#\test\面向对象\_directory\obj\x86\Debug\_directory.pdb
+D:\Conntek\Conntek\C#\test\面向对象\_directory\bin\Debug\_directory.exe
+D:\Conntek\Conntek\C#\test\面向对象\_directory\bin\Debug\_directory.pdb
+D:\Conntek\Conntek\C#\test\面向对象\_directory\obj\x86\Debug\_directory.exe
+D:\Conntek\Conntek\C#\test\面向对象\_directory\obj\x86\Debug\_directory.pdb
+D:\Conntek\学习\C#\test\面向对象\_directory\bin\Debug\_directory.exe
+D:\Conntek\学习\C#\test\面向对象\_directory\bin\Debug\_directory.pdb
+D:\Conntek\学习\C#\test\面向对象\_directory\obj\x86\Debug\_directory.exe
+D:\Conntek\学习\C#\test\面向对象\_directory\obj\x86\Debug\_directory.pdb

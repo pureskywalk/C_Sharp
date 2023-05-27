@@ -1,0 +1,15 @@
+D:\Conntek\C#\test\面向对象\字符串\bin\Debug\字符串.exe
+D:\Conntek\C#\test\面向对象\字符串\bin\Debug\字符串.pdb
+D:\Conntek\C#\test\面向对象\字符串\obj\x86\Debug\字符串.exe
+D:\Conntek\C#\test\面向对象\字符串\obj\x86\Debug\字符串.pdb
+D:\Conntek\C#\test\面向对象\字符串\obj\x86\Debug\字符串.csprojResolveAssemblyReference.cache
+D:\Conntek\Conntek\C#\test\面向对象\字符串\bin\Debug\字符串.exe
+D:\Conntek\Conntek\C#\test\面向对象\字符串\bin\Debug\字符串.pdb
+D:\Conntek\Conntek\C#\test\面向对象\字符串\obj\x86\Debug\字符串.csprojResolveAssemblyReference.cache
+D:\Conntek\Conntek\C#\test\面向对象\字符串\obj\x86\Debug\字符串.exe
+D:\Conntek\Conntek\C#\test\面向对象\字符串\obj\x86\Debug\字符串.pdb
+D:\Conntek\学习\C#\test\面向对象\字符串\bin\Debug\字符串.exe
+D:\Conntek\学习\C#\test\面向对象\字符串\bin\Debug\字符串.pdb
+D:\Conntek\学习\C#\test\面向对象\字符串\obj\x86\Debug\字符串.csprojResolveAssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\字符串\obj\x86\Debug\字符串.exe
+D:\Conntek\学习\C#\test\面向对象\字符串\obj\x86\Debug\字符串.pdb

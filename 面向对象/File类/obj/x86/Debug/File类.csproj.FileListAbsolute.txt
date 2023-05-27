@@ -1,0 +1,14 @@
+D:\Conntek\C#\test\面向对象\File类\bin\Debug\File类.exe
+D:\Conntek\C#\test\面向对象\File类\bin\Debug\File类.pdb
+D:\Conntek\C#\test\面向对象\File类\obj\x86\Debug\File类.exe
+D:\Conntek\C#\test\面向对象\File类\obj\x86\Debug\File类.pdb
+D:\Conntek\Conntek\C#\test\面向对象\File类\bin\Debug\File类.exe
+D:\Conntek\Conntek\C#\test\面向对象\File类\bin\Debug\File类.pdb
+D:\Conntek\Conntek\C#\test\面向对象\File类\obj\x86\Debug\File类.exe
+D:\Conntek\Conntek\C#\test\面向对象\File类\obj\x86\Debug\File类.pdb
+D:\Conntek\Conntek\C#\test\面向对象\File类\obj\x86\Debug\File类.csprojResolveAssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\File类\bin\Debug\File类.exe
+D:\Conntek\学习\C#\test\面向对象\File类\bin\Debug\File类.pdb
+D:\Conntek\学习\C#\test\面向对象\File类\obj\x86\Debug\File类.csprojResolveAssemblyReference.cache
+D:\Conntek\学习\C#\test\面向对象\File类\obj\x86\Debug\File类.exe
+D:\Conntek\学习\C#\test\面向对象\File类\obj\x86\Debug\File类.pdb

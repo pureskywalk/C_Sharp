@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecf06f63-1480-43af-8fc0-e1cd2001a741": {
+      "ProjectGuid": "ecf06f63-1480-43af-8fc0-e1cd2001a741",
+      "DisplayName": "Path类",
+      "ColorIndex": 0
+    },
+    "2c56291e-9178-44b3-8056-543ce8c9b3b5": {
+      "ProjectGuid": "2c56291e-9178-44b3-8056-543ce8c9b3b5",
+      "DisplayName": "_Dictionary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

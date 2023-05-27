@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\17667\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\17667\\.nuget\\packages",
+      "D:\\SoftWare\\visual statio2022\\shared\\NuGetPackages"
+    ]
+  }
+}

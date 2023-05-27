@@ -1,0 +1,12 @@
+D:\Conntek\C#\test\面向对象\简单工厂设计模式\bin\Debug\简单工厂设计模式.exe
+D:\Conntek\C#\test\面向对象\简单工厂设计模式\bin\Debug\简单工厂设计模式.pdb
+D:\Conntek\C#\test\面向对象\简单工厂设计模式\obj\x86\Debug\简单工厂设计模式.exe
+D:\Conntek\C#\test\面向对象\简单工厂设计模式\obj\x86\Debug\简单工厂设计模式.pdb
+D:\Conntek\Conntek\C#\test\面向对象\简单工厂设计模式\bin\Debug\简单工厂设计模式.exe
+D:\Conntek\Conntek\C#\test\面向对象\简单工厂设计模式\bin\Debug\简单工厂设计模式.pdb
+D:\Conntek\Conntek\C#\test\面向对象\简单工厂设计模式\obj\x86\Debug\简单工厂设计模式.exe
+D:\Conntek\Conntek\C#\test\面向对象\简单工厂设计模式\obj\x86\Debug\简单工厂设计模式.pdb
+D:\Conntek\学习\C#\test\面向对象\简单工厂设计模式\bin\Debug\简单工厂设计模式.exe
+D:\Conntek\学习\C#\test\面向对象\简单工厂设计模式\bin\Debug\简单工厂设计模式.pdb
+D:\Conntek\学习\C#\test\面向对象\简单工厂设计模式\obj\x86\Debug\简单工厂设计模式.exe
+D:\Conntek\学习\C#\test\面向对象\简单工厂设计模式\obj\x86\Debug\简单工厂设计模式.pdb

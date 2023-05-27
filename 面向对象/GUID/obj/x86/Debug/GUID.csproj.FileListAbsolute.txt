@@ -1,0 +1,12 @@
+D:\Conntek\C#\test\面向对象\GUID\bin\Debug\GUID.exe
+D:\Conntek\C#\test\面向对象\GUID\bin\Debug\GUID.pdb
+D:\Conntek\C#\test\面向对象\GUID\obj\x86\Debug\GUID.exe
+D:\Conntek\C#\test\面向对象\GUID\obj\x86\Debug\GUID.pdb
+D:\Conntek\Conntek\C#\test\面向对象\GUID\bin\Debug\GUID.exe
+D:\Conntek\Conntek\C#\test\面向对象\GUID\bin\Debug\GUID.pdb
+D:\Conntek\Conntek\C#\test\面向对象\GUID\obj\x86\Debug\GUID.exe
+D:\Conntek\Conntek\C#\test\面向对象\GUID\obj\x86\Debug\GUID.pdb
+D:\Conntek\学习\C#\test\面向对象\GUID\bin\Debug\GUID.exe
+D:\Conntek\学习\C#\test\面向对象\GUID\bin\Debug\GUID.pdb
+D:\Conntek\学习\C#\test\面向对象\GUID\obj\x86\Debug\GUID.exe
+D:\Conntek\学习\C#\test\面向对象\GUID\obj\x86\Debug\GUID.pdb
