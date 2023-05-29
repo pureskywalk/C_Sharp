@@ -1,0 +1,8 @@
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\bin\Debug\Factory_Method.exe.config
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\bin\Debug\Factory_Method.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\bin\Debug\Factory_Method.pdb
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\obj\Debug\Factory_Method.csproj.AssemblyReference.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\obj\Debug\Factory_Method.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\obj\Debug\Factory_Method.csproj.CoreCompileInputs.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\obj\Debug\Factory_Method.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\Factory_Method\obj\Debug\Factory_Method.pdb

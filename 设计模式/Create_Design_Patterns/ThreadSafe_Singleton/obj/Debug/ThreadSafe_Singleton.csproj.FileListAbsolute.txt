@@ -1,0 +1,8 @@
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\bin\Debug\ThreadSafe_Singleton.exe.config
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\bin\Debug\ThreadSafe_Singleton.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\bin\Debug\ThreadSafe_Singleton.pdb
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\obj\Debug\ThreadSafe_Singleton.csproj.AssemblyReference.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\obj\Debug\ThreadSafe_Singleton.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\obj\Debug\ThreadSafe_Singleton.csproj.CoreCompileInputs.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\obj\Debug\ThreadSafe_Singleton.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Create_Design_Patterns\ThreadSafe_Singleton\obj\Debug\ThreadSafe_Singleton.pdb
