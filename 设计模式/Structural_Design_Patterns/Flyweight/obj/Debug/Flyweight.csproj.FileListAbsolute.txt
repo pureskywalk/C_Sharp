@@ -1,0 +1,11 @@
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\bin\Debug\Flyweight.exe.config
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\bin\Debug\Flyweight.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\bin\Debug\Flyweight.pdb
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\bin\Debug\Newtonsoft.Json.dll
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\bin\Debug\Newtonsoft.Json.xml
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\obj\Debug\Flyweight.csproj.AssemblyReference.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\obj\Debug\Flyweight.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\obj\Debug\Flyweight.csproj.CopyComplete
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\obj\Debug\Flyweight.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Structural_Design_Patterns\Flyweight\obj\Debug\Flyweight.pdb
