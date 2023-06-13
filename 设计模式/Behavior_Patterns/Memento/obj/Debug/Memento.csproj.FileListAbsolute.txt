@@ -1,0 +1,8 @@
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\bin\Debug\Memento.exe.config
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\bin\Debug\Memento.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\bin\Debug\Memento.pdb
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\obj\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\obj\Debug\Memento.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Memento\obj\Debug\Memento.pdb

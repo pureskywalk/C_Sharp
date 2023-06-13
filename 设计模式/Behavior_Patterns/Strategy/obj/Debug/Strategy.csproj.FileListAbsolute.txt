@@ -1,0 +1,8 @@
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\bin\Debug\Strategy.exe.config
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\bin\Debug\Strategy.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\bin\Debug\Strategy.pdb
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\obj\Debug\Strategy.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\Strategy\obj\Debug\Strategy.pdb

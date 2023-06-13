@@ -1,0 +1,8 @@
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\bin\Debug\State.exe.config
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\bin\Debug\State.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\bin\Debug\State.pdb
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\obj\Debug\State.csproj.AssemblyReference.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\obj\Debug\State.csproj.SuggestedBindingRedirects.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\obj\Debug\State.exe
+D:\Conntek\Wangc\GIT\C_Sharp\设计模式\Behavior_Patterns\State\obj\Debug\State.pdb
